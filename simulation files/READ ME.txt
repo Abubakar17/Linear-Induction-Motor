@@ -1,0 +1,5 @@
+Welcome to the simulink model of Linear induction motor
+
+
+TO run the simulink model first run the matlab code to load the parameters... 3 graphs should be plotted once the model has been run.
+The first is thrust v time, the second speed vs time and the x-y graph is the thrust vs speed.
